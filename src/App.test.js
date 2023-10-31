@@ -6,6 +6,7 @@ import App from './App';
 //   const linkElement = screen.getByText(/learn react/i);
 //   expect(linkElement).toBeInTheDocument();
 // hello
+// hello 2
 // });
 
 test('renders VAT Calculator text', () => {
